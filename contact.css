@@ -1,0 +1,10 @@
+
+html * {
+   font-size: 16px;
+   line-height: 1.625;   
+   font-family: 'Times New Roman';
+ }
+ label {
+   display: inline-block;
+   width: 75px;
+}
